@@ -35,9 +35,3 @@
 </div>
 
 ###
-
-<h3 align="left">My proyects</h3>
-
-###
-
-<p align="left">-ASTRONET-<br>Cellular application: E-commerce of technological products.<br><br>With a team of 8 members, we developed a React Native app with CSS styles that included MongoDB database, NodeJS back with Express, Login with Google, Auth0, bcrypt and jsonwebtoken, push and email notifications, image saving in an online database with Cloudinary and a payment gateway with Mercado Pago.<br><br>-Videogammes SPA-<br>Web Application: SPA<br><br>On this page we see basic functions of ordering, filtering, search by name. We can also create new games.<br>The technologies used were React, Redux, Sequelize, PostreSQL, Express.</p>
